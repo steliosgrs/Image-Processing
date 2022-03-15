@@ -18,7 +18,7 @@
 
 | Original | Sabattier  effect |
 |:---:|:---:|
-| <img src="Noise_Filters/kenshin.jpg" align="middle" alt="kenshin" width="70%"/>       | <img src="Noise_Filters/image64.jpg"  alt="image64" width="70%"/>
+| <img src="Noise_Filters/kenshin.jpg" align="middle" alt="kenshin" width="70%"/>       | <img src="Noise_Filters/Image64.jpg"  alt="image64" width="70%"/>
 
 #### Apply Noise       
 

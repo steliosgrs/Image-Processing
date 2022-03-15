@@ -7,10 +7,11 @@
 - Apply **Salt&Pepper** and **Poisson Noise**
 - Apply Filters for **Denoising**
 <ol>
-<li>Gaussian Blur</li>
-<li>Median Blur</li>
-<li>Bilateral Filter</li>
+    <li>Gaussian Blur</li>
+    <li>Median Blur</li>
+    <li>Bilateral Filter</li>
 </ol>
+
 - Shows scores **SSIM** and **MSE**
 
 
